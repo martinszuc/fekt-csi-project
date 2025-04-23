@@ -1,0 +1,22 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Mac/Linux hidden files
+.DS_Store
+*.swp
+
+# IDE/editor folders
+.vscode/
+.idea/
+
+# Logs, data dumps, outputs
+*.log
+output_data/
